@@ -63,6 +63,10 @@ body {
   padding: 100px 0;
 }
 
+.form  p {
+  padding-left: 20px;
+}
+
 @media (max-width: 1244px) {
   .form {
     padding-left: 15px;
@@ -187,6 +191,3 @@ button:active {
   font-weight: bold;
 }
 
-.form  p {
-  padding-left: 20px;
-}
